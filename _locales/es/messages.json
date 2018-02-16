@@ -1,0 +1,36 @@
+{
+  "extensionName": {
+    "message": "SaveTabs",
+    "description": "Name of the SaveTabs extension."
+  },
+
+  "extensionDescription": {
+    "message": "Guarde sus pestañas abiertas y restaure pestañas guardadas previamente.",
+    "description": "Description of the SaveTabs extension."
+  },
+
+  "popupTitle": {
+    "message": "Guardar pestañas",
+    "description": "Title of the click notification."
+  },
+  
+  "saveCurrentTab": {
+    "message": "Guardar la pestaña actual",
+    "description": "Menu entry to save the current tab."
+  },
+  
+  "saveAllTabs": {
+    "message": "Guardar todas las pestañas de la actual ventana",
+    "description": "Menu entry to save all tabs in the current window."
+  },
+  
+  "loadSavedTabs": {
+    "message": "Restaurar pestañas guardadas",
+    "description": "Menu entry to load and restore all saved tabs."
+  },
+  
+  "deleteSavedTabs": {
+    "message": "Eliminar pestañas guardadas",
+    "description": "Menu entry to delete all saved tabs from the local storage."
+  }
+}
